@@ -1,0 +1,18 @@
+export const Colors = {
+  primary50: '#e8f7fd',
+  primary100: '#cfeffd',
+  primary200: '#a0defb',
+  primary400: '#44bdf5',
+  primary500: '#1aacf0',
+  primary700: '#0570c9',
+  primary800: '#003b88',
+  accent500: '#e6b30b',
+  gray100: '#f5f5f5',
+  gray300: '#9e9e9e',
+  gray500: '#757575',
+  gray700: '#424242',
+  gray900: '#212121',
+  surface: '#ffffff',
+  background: '#f8fafc',
+  error: '#c62828',
+};

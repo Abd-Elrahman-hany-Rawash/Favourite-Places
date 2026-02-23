@@ -24,6 +24,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": " this app needs access to your photos to let you share them with your friends."
+        }
+      ],
+      "expo-maps"
+    ]
   }
 }
